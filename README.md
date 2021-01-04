@@ -1,11 +1,11 @@
 ### Hey i am Stark Verma 👋
-### always try to be better than yesterday 👋
+<em>always try to be better than yesterday..</em>
 
 <!--
 **starkverma111/starkverma111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:  -->
-I'm a Student, Developer, and Nature Lover!!
+<Strong>I'm a Student, Developer, and Nature Lover!!</strong>
 
 - 🔭 I’m currently working on Project hala or Project Alpha...
 - 🌱 I’m currently learning GCP...
@@ -18,13 +18,12 @@ I'm a Student, Developer, and Nature Lover!!
 - ⚡ Fun fact: Everything i learned on Internet, 
      College to serf 75% attandus or assignment jama krne k liye jata tha...
 
-### Qualification
-<br>
-<p><a href="#" rel="nofollow"><img align="left" alt="Stark Verma" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="Stark Verma | YouTube" width="22px" src="https://camo.githubusercontent.com/6645c4c313a1f4f0032cd1c5e5fd0033417104a7a282fed4cafdca8ac2a1ab33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width:100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="Stark Verma | Twitter" width="22px" src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="Stark Verma | LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="Stark Verma | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a></p>
+### Follow Me
+<p><a href="#" rel="nofollow"><img align="left" alt="Stark Verma | facebook" width="22px" src="https://img.icons8.com/color/2x/facebook-new.png" style="max-width:100%;"></a>
+<a href="#" rel="nofollow"><img align="left" alt="Stark Verma | Instagram" width="22px" src="https://img.icons8.com/color/2x/instagram-new--v1.png" style="max-width:100%;"></a>
+<a href="#" rel="nofollow"><img align="left" alt="Stark Verma | Twitter" width="22px" src="https://img.icons8.com/color/2x/twitter-circled--v1.png" style="max-width:100%;"></a>
+<a href="#" rel="nofollow"><img align="left" alt="Stark Verma | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" style="max-width:100%;"></a>
+</p>
 <br>
 
 ### Languages and Tools:
@@ -44,6 +43,7 @@ I'm a Student, Developer, and Nature Lover!!
   <a href="#" rel="nofollow"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
   <a href="#" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;"></a>
   <a href="#" rel="nofollow"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></p>
+  <br>
   <br>
  <img src="https://media0.giphy.com/media/ZCGglesF0rjYA/giphy.gif" height="120px">
 
